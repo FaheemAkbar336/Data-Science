@@ -1,6 +1,6 @@
 # Pakistan Laws Legal Assistant
 
-A web-based legal assistant application that provides analysis and information about Pakistan's laws and constitution.
+A smart AI assistant that analyzes legal text and delivers accurate, easy-to-understand guidance. Built to reduce research time and improve legal workflow efficiency.
 
 ## Project Structure
 
@@ -43,7 +43,7 @@ project/
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/FaheemAkbar336/Data-Science.git
 cd project
 ```
 
